@@ -1,0 +1,5 @@
+requests>=2.31
+playwright>=1.45
+psycopg[binary]>=3.1
+zstandard>=0.22
+# boto3 is installed on demand when S3 is configured
